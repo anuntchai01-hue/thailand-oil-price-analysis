@@ -6,7 +6,7 @@ This project analyzes Brent crude oil price trends from June 2025 to March 2026 
 
 ## Objectives
 
-* Analyze Brent crude oil price trend
+* Analyze Brent crude oil price trends
 * Identify significant changes
 * Estimate potential impact on Thailand's economy
 * Visualize data for clear interpretation
