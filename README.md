@@ -38,3 +38,6 @@ This project analyzes Brent crude oil price trends from June 2025 to March 2026 
 
 Anuntchai (Aspiring Data Analyst)
 
+## Notes
+This project was developed with the assistance of AI tools for structuring and wording. 
+All analysis, data verification, and interpretation were reviewed by the author.
