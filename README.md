@@ -31,9 +31,8 @@ This project analyzes Brent crude oil price trends from June 2025 to March 2026 
 
 ## Files in Repository
 
-* `oil_price_data.xlsx` — raw data
-* `analysis_chart.png` — visualization
-* `summary.pdf` — written analysis (if included)
+* `oil_analysis.xlsx.xls` — raw data
+* `Brent_Oil_Thailand_Analysis_2026.pdf` — visualization
 
 ## Author
 
